@@ -101,13 +101,7 @@ const tausif = {
 
 ---
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niteboy17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
-</div>
-
----
 
 ### 📈 Contribution Graph
 
@@ -117,7 +111,7 @@ const tausif = {
 
 ---
 
-### 🐍 Contribution Snake
+
 
 <div align="center">
 
@@ -139,6 +133,6 @@ const tausif = {
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"If the code works don't fucking touch it"* — Tausif Akbar
 
 </div>
