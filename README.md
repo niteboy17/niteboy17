@@ -121,7 +121,7 @@ const tausif = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/niteboy17/niteboy17/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](./snake.svg)
 
 </div>
 
@@ -131,7 +131,7 @@ const tausif = {
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nite_boy_17)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/__nite_boy_17__)
 
 </div>
 
