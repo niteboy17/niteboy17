@@ -64,11 +64,24 @@ const tausif = {
 
 <div align="center">
 
-[![Thinkboard Card](https://github-readme-stats.vercel.app/api/pin/?username=niteboy17&repo=thinkboard&theme=tokyonight&hide_border=true)](https://github.com/niteboy17/thinkboard)
+### 🧠 Thinkboard &nbsp;·&nbsp; [📁 GitHub](https://github.com/niteboy17/Thinkboard) &nbsp;·&nbsp; [🔗 Live Demo](https://thinkboard-1rsx.onrender.com/)
 
-**Thinkboard** — A full-stack notes web app built with the MERN stack.  
-Features markdown support, user auth, and a clean responsive UI.  
-Deployed on **Render** · Built with **MongoDB · Express · React · Node.js**
+> A full-stack notes web app where you can **create, edit, and delete notes** with a clean responsive UI and rate limiting built in.
+
+| | |
+|---|---|
+| 🎨 **Frontend** | React, Vite, Tailwind CSS, DaisyUI |
+| ⚙️ **Backend** | Node.js, Express.js |
+| 🗄️ **Database** | MongoDB (Mongoose) |
+| 🔒 **Security** | Rate limiting · 100 req/min per IP |
+| 🔔 **UX** | Toast notifications via React Hot Toast |
+| 🚀 **Deployed** | Render |
+
+![JavaScript](https://img.shields.io/badge/JavaScript-98%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+&nbsp;
+![HTML](https://img.shields.io/badge/HTML-1.7%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+&nbsp;
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 </div>
 
@@ -100,6 +113,26 @@ Deployed on **Render** · Built with **MongoDB · Express · React · Node.js**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niteboy17&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/niteboy17/niteboy17/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nite_boy_17)
+
 </div>
 
 ---
