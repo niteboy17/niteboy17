@@ -111,16 +111,6 @@ const tausif = {
 
 ---
 
-
-
-<div align="center">
-
-![Snake animation](./snake.svg)
-
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <div align="center">
