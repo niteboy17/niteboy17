@@ -1,6 +1,15 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Tausif's GitHub banner" src="dark.svg" width="100%">
+</picture>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6d28d9&height=220&section=header&text=Tausif&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%26%20React%20Native&descAlignY=58&descSize=18" width="100%"/>
+
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Native+%2F+Expo+Developer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
 
